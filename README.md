@@ -36,27 +36,15 @@ An interactive Power BI dashboard analyzing 10,000 customer reviews to explore s
 
 ## 🖼️ Dashboard Preview
 
-### Page 1 – Customer Sentiment Overview
+### Page 1 
 
-![Customer Sentiment Overview](Images/dashboard-page-1.png)
+![Dasboard_preview](amazon_1.png)
 
-### Page 2 – Trends & Product Analysis
+### Page 2 
 
-![Sentiment Trends and Product Analysis](Images/dashboard-page-2.png)
+![Dashboard_preview](amazon_2.png)
 
-## 📁 Project Structure
 
-```text
-Amazon-Customer-Sentiment-Analysis/
-├── Dataset/
-│   └── amazon_customer_sentiment_cleaned_dashboard.csv
-├── Dashboard/
-│   └── amazon_customer_sentiment_analysis.pbix
-├── Images/
-│   ├── dashboard-page-1.png
-│   └── dashboard-page-2.png
-└── README.md
-```
 
 ## 📌 Skills Demonstrated
 
